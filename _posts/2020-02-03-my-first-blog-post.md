@@ -1,3 +1,8 @@
+---
+title: "1"
+date: 2020-02-03
+---
+
 Okay, here we go.
 
 Python, Ruby, R. ML, AI, data wrangling, visualisations, what else?
